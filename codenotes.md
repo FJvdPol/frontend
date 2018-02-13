@@ -4,6 +4,10 @@
 ### 1. What is Scope?
 > Vertaling Scope: bereik
 
+Scope gaat in javascript vooral over de omgeving waarin variables leven en waar ze te vinden zijn.
+Drie stappen van compileren:
+1. Tokenizing/ Lexing
+
 ### 2. Lexical Scope
 > Vertaling Lexical: gerelateerd aan de taal
 
