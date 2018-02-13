@@ -14,6 +14,7 @@ Alle losse chunks orderen in een tree vieuw
 (AST oftewel Abstract Syntax Tree)
 3. Code-generation: 
 De AST in uitvoerbare code omzetten  
+
 Deelnemers bij compileren:
 1. Engine: zorgt voor het a-z proces
 2. Compiler: parsed code
