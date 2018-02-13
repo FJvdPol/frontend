@@ -19,10 +19,10 @@ Deelnemers bij compileren:
 2. Compiler: parsed code
 3. Scope: onthoud leefomgeving en waardes van variables
 
-LHS & RHS: left-hand side & right-hand side
-```var a = b```
-Het gedeelte `var a` gaat over het opslaan van data in a, LHS
-Het gedeelte `b` gaat over het ophalen van de data van b, RHS
+LHS & RHS: left-hand side & right-hand side  
+```var a = b```  
+Het gedeelte `var a` gaat over het opslaan van data in a, LHS  
+Het gedeelte `b` gaat over het ophalen van de data van b, RHS  
 
 ### 2. Lexical Scope
 > Vertaling Lexical: gerelateerd aan de taal
