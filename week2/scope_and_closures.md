@@ -1,6 +1,6 @@
 # Codenotes
 
-## You don't know JS - 3. Scopes & Closures
+## You don't know JS - Scopes & Closures
 ### 1. What is Scope?
 > Vertaling Scope: bereik
 
