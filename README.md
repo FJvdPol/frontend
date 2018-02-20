@@ -30,9 +30,9 @@ Zorg dat je niet teveel javascript afhankelijke sites maakt: Sommige browsers on
 * Make the most use of Vanilla JS
 * Avoid long parameter lists
 * Use consisten Naming Conventions, like:
- * BEM for CSS
- * CamelCase for JS
- * Etc.
+    * BEM for CSS
+    * CamelCase for JS
+    * Etc.
 
 # Image gallery
 # Async API Data
